@@ -5,6 +5,23 @@
 # but you can also edit it by hand.
 
 meteor-platform
+iron:router
+email
+ian:accounts-ui-bootstrap-3
+accounts-base
 accounts-password
-accounts-ui
 reactjs:react
+mquandalle:harmony
+fortawesome:fontawesome
+accounts-facebook
+accounts-google
+service-configuration
+francocatena:status
+jquery
+momentjs:moment
+lepozepo:accounting
+meteorhacks:subs-manager
+mystor:device-detection
+gadicohen:phantomjs
+xolvio:cucumber
+twbs:bootstrap

@@ -7,7 +7,7 @@
 
 var cx = React.addons.classSet;
 
-// Set up a collection to contain player information. On the server,
+// Set up a collection to contain player information. On the Serber,
 // it is backed by a MongoDB collection named "players".
 Players = new Meteor.Collection("players");
 
@@ -103,7 +103,7 @@ if (Meteor.isClient) {
     });
 }
 
-// On server startup, create some players if the database is empty.
+// On Serber startup, create some players if the database is empty.
 if (Meteor.isServer) {
     Meteor.startup(function () {
         if (Players.find().count() === 0) {
