@@ -24,12 +24,9 @@ meteorhacks:subs-manager
 mystor:device-detection
 gadicohen:phantomjs
 xolvio:cucumber
-twbs:bootstrap
-less
-useraccounts:bootstrap
 alanning:roles
 zimme:iron-router-active
-cmather:handlebars-server@0.2.0
+cmather:handlebars-server
 dburles:collection-helpers
 reywood:publish-composite
 mrt:underscore-string-latest
@@ -38,5 +35,8 @@ dburles:factory
 anti:fake
 cunneen:mailgun
 yasinuslu:blaze-meta
-aldeed:collection2
+materialize:materialize
+useraccounts:materialize
 aldeed:autoform
+aldeed:collection2
+gildaspk:autoform-materialize

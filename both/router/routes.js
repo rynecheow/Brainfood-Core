@@ -6,9 +6,8 @@ Router.route('/dashboard', {
   name: 'dashboard'
 });
 
-
-Router.route('/leaderboard', {
-  name: 'leaderboard'
+Router.route('/items/new', {
+  name: 'items.new'
 });
 
 Router.plugin('ensureSignedIn', {
